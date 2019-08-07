@@ -12,3 +12,5 @@ DICT_OF_HERO = {
     'MAGE':'法师',
     'ARCHER':'射手'
 }
+# 定义士兵当前状态
+STATUS_OF_SOLDIER = ('STRONG','ALLEYS','DEAD')
